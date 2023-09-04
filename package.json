@@ -1,0 +1,30 @@
+{
+  "name": "yt-client",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve --port 80",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.1.0",
+    "@lucky-canvas/vue": "^0.1.11",
+    "@wangeditor/editor": "^5.1.23",
+    "@wangeditor/editor-for-vue": "^5.1.12",
+    "axios": "^1.4.0",
+    "element-plus": "^2.3.4",
+    "vue": "^3.2.13",
+    "vue-router": "^4.0.3",
+    "vue3-cookies": "^1.0.6",
+    "vuex": "^4.0.0",
+    "vuex-module-decorators": "^2.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-typescript": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "typescript": "~4.5.5"
+  }
+
+}
